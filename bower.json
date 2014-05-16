@@ -1,0 +1,21 @@
+{
+  "name": "ember-lfstore",
+  "version": "0.0.1",
+  "main": "dist/LFStore.js",
+  "ignore": [
+    "src",
+    ".bowerrc",
+    ".gitignore",
+    ".jshintignore",
+    ".jshintrc",
+    "bower.json",
+    "gruntfile.js",
+    "package.json",
+    "README.md"
+  ],
+  "dependencies": {
+    "localforage": ">=0.8.1",
+    "coffee-script": "~1.7.1"
+  },
+  "homepage": "https://github.com/PocketResult/localforage-ember"
+}

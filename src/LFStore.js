@@ -7,11 +7,11 @@
             console.log("########################");
             console.log("#                      #");
             console.log("#  LocalForage Impl.   #");
-            console.log("#                      #");
+            console.log("#        v0.0.1        #");
             console.log("########################");
             console.log("Test LFStore successful!");
-        }
-//      store: localforage
+        },
+      store: localforage
 //      all: function(type){},
 //      createRecord: function(type, properties){},
 //      deleteRecord: function(record){},

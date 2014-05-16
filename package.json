@@ -30,5 +30,6 @@
     "uglify-js": "^2.3.x"
   },
   "browser": "dist/LFStore.js",
-  "main": "dist/LFStore.js"
+  "main": "dist/LFStore.js",
+  "licence": "Apache-2.0"
 }
